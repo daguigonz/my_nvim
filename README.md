@@ -53,6 +53,7 @@ $ nvim init.vim
 
 
 ### License
+El proyecto esta basado en una recopilación de blogs y videos de internet, no es al 100% mi autoria, este proyecto debe ser tomado como un punto de partida para que un programador con poco conocimiento tenga un pie de partida con VIM.
 
 © 2022-present [@daguigonz](https://aguirredaniels.com)
 
