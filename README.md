@@ -11,10 +11,10 @@ $ sudo npm install
 ```bash
 ~/.config/
 ```
-## 📌 Copiar directorio de este repositorio
+## 📌 Copiar directorio de proyecto a las siguiente ruta (Mac).
 
 ```bash
-
+~/.config/nvim
 ```
 
 ## 📌 Instal server autocompletado 
